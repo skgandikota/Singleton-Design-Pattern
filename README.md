@@ -30,6 +30,7 @@ Just like a global variable, the Singleton pattern lets you access some object f
 There’s another side to this problem: you don’t want the code that solves problem #1 to be scattered all over your program. It’s much better to have it within one class, especially if the rest of your code already depends on it.
 
 
+<img width="704" alt="image" src="https://user-images.githubusercontent.com/24265936/164951400-430b817a-d5fb-4824-8b9d-719d96de5cc1.png">
 
 
 ## <b>< / > Pseudocode</b>
